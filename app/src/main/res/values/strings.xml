@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">imad supp final</string>
+    <string name="exit">Exit</string>
+    <string name="view_details">View Details</string>
+    <string name="average_intake_0_0_l">Average Intake: 0.0 L</string>
+    <string name="hydration_haven">Hydration Haven</string>
+    <string name="your_name">Your Name</string>
+    <string name="todo">TODO</string>
+</resources>
